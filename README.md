@@ -1,1 +1,9 @@
 # prediction.py
+# Chothia, C, and Lesk, AM 1982b, Evolution of
+
+
+# protiins formed by- B-shetts. Plastocyanin and
+
+# azurin J.Mol Biol Biol 160:303-323
+
+
